@@ -1,6 +1,6 @@
-![hackthebox](https://github.com/user-attachments/assets/1d945da4-c859-4e29-a0fd-76bee3594512)## Hi there 👋
+ Hi there 👋
 
-My name is Keagan, and I'm an aspiring Ethical Hacker interested in sharing some of my projects with you and including indetailed writeups on:
+My name is Keagan, and I'm an aspiring Ethical Hacker interested in sharing some of my projects with you and including detailed writeups on:
  Completed Cyber-projects and expired HTB Labs
 
 - hackthebox: KeagsLev
