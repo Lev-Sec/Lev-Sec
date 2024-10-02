@@ -4,7 +4,7 @@ My name is Keagan, and I'm an aspiring Ethical Hacker interested in sharing some
  Completed Cyber-projects and expired HTB Labs
 
 - 🔭 My CyberSecurity Projects below:
- - hackthebox: KeagsLev
+  - hackthebox: KeagsLev
   
   
 <!--
