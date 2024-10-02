@@ -3,8 +3,8 @@
 My name is Keagan, and I'm an aspiring Ethical Hacker interested in sharing some of my projects with you and including indetailed writeups on:
  Completed Cyber-projects and expired HTB Labs
 
-- 🔭 My CyberSecurity Projects
-- 🌱 I’m currently learning ...
+- 🔭 My CyberSecurity Projects below:
+  
   
 <!--
 **Lev-Sec/Lev-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
