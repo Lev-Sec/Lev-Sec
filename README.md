@@ -5,9 +5,8 @@ My name is Keagan, and I'm an aspiring Ethical Hacker interested in sharing some
 
 - 🔭 My CyberSecurity Projects below:
   
-  - 📫 Keags.levsec@gmail.com
   - hackthebox: KeagsLev
-  
+  - 📫 Keags.levsec@gmail.com
   
 <!--
 **Lev-Sec/Lev-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
